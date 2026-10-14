@@ -32,4 +32,4 @@ theme's repository and nothing here changes.
 
 Open a pull request adding an entry. The theme needs a `manifest.json` with `name`,
 `version`, `author` and `min_vpinfe`, and a `preview_image` under about 300 KB. How a theme
-is built is in the VPinFE documentation, `docs/theme_publishing.md`.
+is built is in the VPinFE documentation, `docs/theme-publishing.md`.
