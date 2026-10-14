@@ -2,40 +2,40 @@
   "themes": {
     "Revolution": {
       "name": "Revolution",
-      "url": "https://github.com/superhac/vpinfe-theme-revolution",
+      "url": "https://github.com/vpinfe/theme-revolution",
       "default_install": true
     },
     "Trinidad": {
       "name": "Trinidad",
-      "url": "https://github.com/superhac/vpinfe-theme-trinidad"
+      "url": "https://github.com/vpinfe/theme-trinidad"
     },
     "slider": {
       "name": "Slider",
-      "url": "https://github.com/superhac/vpinfe-theme-slider"
+      "url": "https://github.com/vpinfe/theme-slider"
     },
     "Texal": {
       "name": "Texal",
-      "url": "https://github.com/superhac/vpinfe-theme-texal"
+      "url": "https://github.com/vpinfe/theme-texal"
     },
     "cab": {
       "name": "Cab",
-      "url": "https://github.com/superhac/vpinfe-theme-cab"
+      "url": "https://github.com/vpinfe/theme-cab"
     },
     "Basic Cab": {
       "name": "Basic Cab",
-      "url": "https://github.com/superhac/vpinfe-theme-basic-cab"
+      "url": "https://github.com/vpinfe/theme-basic-cab"
     },
     "carousel-desktop": {
       "name": "Carousel Desktop",
-      "url": "https://github.com/superhac/vpinfe-theme-carousel-desktop"
+      "url": "https://github.com/vpinfe/theme-carousel-desktop"
     },
     "carousel2": {
       "name": "Carousel2",
-      "url": "https://github.com/superhac/vpinfe-theme-carousel2"
+      "url": "https://github.com/vpinfe/theme-carousel2"
     },
     "Template": {
       "name": "Template",
-      "url": "https://github.com/superhac/vpinfe-theme-template"
+      "url": "https://github.com/vpinfe/theme-template"
     },
     "Trifecta": {
       "name": "Trifecta",

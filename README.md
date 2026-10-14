@@ -3,9 +3,6 @@
 The list of frontend themes VPinFE 3.0 offers. `themes.json` is what its Themes page reads
 by default.
 
-This is the 3.0 list. VPinFE 2.x reads a different list, `superhac/vpinfe-themes`, which
-stays as it is.
-
 ## An entry
 
 ```json
