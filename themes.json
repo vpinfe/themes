@@ -1,0 +1,45 @@
+{
+  "themes": {
+    "Revolution": {
+      "name": "Revolution",
+      "url": "https://github.com/superhac/vpinfe-theme-revolution",
+      "default_install": true
+    },
+    "Trinidad": {
+      "name": "Trinidad",
+      "url": "https://github.com/superhac/vpinfe-theme-trinidad"
+    },
+    "slider": {
+      "name": "Slider",
+      "url": "https://github.com/superhac/vpinfe-theme-slider"
+    },
+    "Texal": {
+      "name": "Texal",
+      "url": "https://github.com/superhac/vpinfe-theme-texal"
+    },
+    "cab": {
+      "name": "Cab",
+      "url": "https://github.com/superhac/vpinfe-theme-cab"
+    },
+    "Basic Cab": {
+      "name": "Basic Cab",
+      "url": "https://github.com/superhac/vpinfe-theme-basic-cab"
+    },
+    "carousel-desktop": {
+      "name": "Carousel Desktop",
+      "url": "https://github.com/superhac/vpinfe-theme-carousel-desktop"
+    },
+    "carousel2": {
+      "name": "Carousel2",
+      "url": "https://github.com/superhac/vpinfe-theme-carousel2"
+    },
+    "Template": {
+      "name": "Template",
+      "url": "https://github.com/superhac/vpinfe-theme-template"
+    },
+    "Trifecta": {
+      "name": "Trifecta",
+      "url": "https://github.com/emb417/vpinfe-theme-trifecta"
+    }
+  }
+}
